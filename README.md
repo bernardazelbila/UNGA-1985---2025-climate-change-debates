@@ -4,16 +4,16 @@ This repository contains analysis scripts, statistical outputs, and supplementar
 
 ## Repository contents
 
-- `Code for diachronic analysis(2).py`  
+- `Code for diachronic analysis.py`  
   Python script for the diachronic BERTopic analysis of climate-related UNGA sentences and VADER sentiment analysis across diachronic zones.
 
-- `continental distribution and Chi analysis(2).py`  
+- `continental distribution and Chi analysis.py`  
   Python script for visualising the continental distribution of climate-related sentences and conducting the Pearson chi-square analysis, including Cramér's V, expected frequencies, residual analyses, and cell contributions.
 
-- `UNGA_spacy_sentence_counts_by_continent(1).xlsx`  
+- `UNGA_spacy_sentence_counts_by_continent.xlsx`  
   Spreadsheet containing sentence-count information used for the continental distribution analysis.
 
-- `Chi_Square_Continent_by_Diachronic_Zone(1).xlsx`  
+- `Chi_Square_Continent_by_Diachronic_Zone.xlsx`  
   Spreadsheet containing output from the continent-by-diachronic-zone chi-square analysis.
 
 - `Supplementary Table.docx`  
