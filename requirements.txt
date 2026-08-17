@@ -1,0 +1,12 @@
+bertopic
+sentence-transformers
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+vaderSentiment
+openpyxl
+plotly
+umap-learn
+hdbscan
