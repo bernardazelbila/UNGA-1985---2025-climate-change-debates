@@ -13,12 +13,6 @@ This repository contains analysis scripts, statistical outputs, and supplementar
 - `UNGA_spacy_sentence_counts_by_continent.xlsx`  
   Spreadsheet containing sentence-count information used for the continental distribution analysis.
 
-- `Chi_Square_Continent_by_Diachronic_Zone.xlsx`  
-  Spreadsheet containing output from the continent-by-diachronic-zone chi-square analysis.
-
-- `Supplementary Table.docx`  
-  Supplementary table reporting residual analysis for continental climate attention.
-
 ## Analyses
 
 The repository contains code for the following components of the study:
@@ -51,4 +45,4 @@ The files in this repository are preserved in their original uploaded form. No a
 
 ## Citation
 
-If you use these materials, please cite the associated publication or manuscript. Citation details can be added here once the final bibliographic information is available.
+If you use these materials, please cite the associated publication or manuscript. 
